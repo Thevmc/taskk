@@ -1,0 +1,1 @@
+module.exports={database:"vamshi",username:"root",password:"Thevmc@2101",dialelct:"mysql",host:"localhost"};
